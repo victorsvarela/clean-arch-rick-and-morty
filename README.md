@@ -23,7 +23,7 @@ export default tseslint.config({
     },
   },
 })
-teste
+teste 2
 ```
 
 - Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
